@@ -25,7 +25,8 @@ IT Specialist & Software Developer
 - Advance Technologies
 
 ## Projects
--Voice Activity Detection & Fundamental Frequency Estimation (MATLAB-OCTAVE)
+
+- Voice Activity Detection & Fundamental Frequency Estimation (MATLAB-OCTAVE)
 - C++ Mini Codes
 - Python Macrocodes
 - Web Services experiments
