@@ -1,4 +1,4 @@
-* 👋 Hi, I’m  Christos Vyzantios
+* 👋 Hi, I’m  Christos Vyzantios,
 IT Specialist & Software Developer
 
 ## Skills
