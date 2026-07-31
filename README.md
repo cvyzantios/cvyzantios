@@ -28,3 +28,9 @@ IT Specialist & Software Developer
 - C++ Mini Codes
 - Python Macrocodes
 - Web Services experiments
+- Empoyees_Report
+- Database1_UUNIPI_EX1 
+- Virtual_Bomb_Pyrotechnician_Agents
+- Cplusplus-macrocodes
+- Python-Microcodes-projects
+- Fortune
