@@ -28,7 +28,7 @@ IT Specialist & Software Developer
 
 - Voice Activity Detection & Fundamental Frequency Estimation (MATLAB-OCTAVE)
 - C++ Mini Codes
-- Python Macrocodes
+- Python Microcodes
 - Web Services experiments
 - Empoyees_Report
 - Database1_UUNIPI_EX1 
