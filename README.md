@@ -1,5 +1,5 @@
 * 👋 Hi, I’m  Christos Vyzantios,
-IT Specialist & Software Developer
+IT Specialist & Consultant
 
 ## Skills
 - C++
@@ -16,6 +16,19 @@ IT Specialist & Software Developer
 - Visual Studio
 - GitHub
 - Eclipse
+
+  ## AI Tools
+
+- ChatGPT
+- GitHub Copilot
+- Google Gemini
+- Claude
+
+## Generative AI
+
+- Suno
+- Leonardo AI
+- NightCafe Studio
 
 ## Interests
 - Software Development
