@@ -9,6 +9,13 @@ IT Specialist & Software Developer
 - SQL
 - Git/GitHub
 - Matlab
+- Cisco IOS
+
+  ## Tools
+
+- Visual Studio
+- GitHub
+- Eclipse
 
 ## Interests
 - Software Development
@@ -19,5 +26,5 @@ IT Specialist & Software Developer
 
 ## Projects
 - C++ Mini Codes
-- Python M
+- Python Macrocodes
 - Web Services experiments
