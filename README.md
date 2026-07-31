@@ -1,6 +1,23 @@
-* 👋 Hi, I’m  cvyzantios
+* 👋 Hi, I’m  Christos Vyzantios
+IT Specialist & Software Developer
 
-* 👀 **I’m interested in:** IT concepts, Software Development, Network Engineering & Systems Architecture.
-* 🌱 **I’m currently learning:** Science, Technology, and Society (STS) & advanced computing topics.
-* 📫 **How to reach me:** Connect with me on https://www.linkedin.com/in/cvyzantios.
+## Skills
+- C++
+- Python
+- C#
+- JavaScript
+- SQL
+- Git/GitHub
+- Matlab
 
+## Interests
+- Software Development
+- Artificial Intelligence
+- Networking
+- Computer Graphics
+- Advance Technologies
+
+## Projects
+- C++ Mini Codes
+- Python M
+- Web Services experiments
