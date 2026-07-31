@@ -1,4 +1,4 @@
-### 👋 Hi, I’m  @cvyzantios
+* 👋 Hi, I’m  cvyzantios
 
 * 👀 **I’m interested in:** IT concepts, Software Development, Network Engineering & Systems Architecture.
 * 🌱 **I’m currently learning:** Science, Technology, and Society (STS) & advanced computing topics.
