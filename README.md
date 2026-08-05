@@ -46,6 +46,6 @@ IT Specialist & Consultant
 - Empoyees_Report
 - Database1_UUNIPI_EX1 
 - Virtual_Bomb_Pyrotechnician_Agents
-- Cplusplus-macrocodes
+- Cplusplus-microcodes
 - Python-Microcodes-projects
 - Fortune
