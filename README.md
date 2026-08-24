@@ -8,7 +8,8 @@ IT Specialist & Consultant
 - JavaScript
 - SQL
 - Git/GitHub
-- Matlab
+- Matlab (Octave)
+- Java
 - Cisco IOS
 
   ## Tools
