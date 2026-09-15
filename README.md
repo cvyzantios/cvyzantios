@@ -37,6 +37,7 @@ IT Specialist & Consultant
 - Networking
 - Computer Graphics
 - Advance Technologies
+- Graphic arts
 
 ## Projects
 
