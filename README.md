@@ -42,6 +42,7 @@ IT Specialist & Consultant
 ## Projects
 
 - Voice Activity Detection & Fundamental Frequency Estimation (MATLAB-OCTAVE)
+- Network Intrusion Detection Lab – Snort
 - C++ Mini Codes
 - Python Microcodes
 - Web Services experiments
