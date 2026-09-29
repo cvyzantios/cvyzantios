@@ -41,6 +41,7 @@ IT Specialist & Consultant
 
 ## Projects
 
+- Afrodite-s-Children
 - Voice Activity Detection & Fundamental Frequency Estimation (MATLAB-OCTAVE)
 - Network Intrusion Detection Lab – Snort
 - C++ Mini Codes
